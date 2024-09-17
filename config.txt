@@ -1,2 +1,2 @@
-filter = '&fq=scope:(cos-spu)'
+filter = '&fq=scope:cos-spu'
 limit = 20
