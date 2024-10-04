@@ -1,0 +1,2 @@
+filter = '&fq=scope:"cos-spu"'
+limit = 20
